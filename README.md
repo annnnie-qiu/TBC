@@ -7,9 +7,8 @@ Focused on the errors encountered during the synthesis phase of the hardware des
 
 ### Runtime Error Analysis
 
-Focused on runtime failures detected through self-written testbenches, which are then analyzed by the LLM.
+Focused on runtime failures detected through self-written testbenches, which are then analyzed by the LLM. Additionally, **RAG (Retrieval-Augmented Generation)** is used to optimize LLM explanations by feeding in more contextually relevant information during the analysis phase. 
 
-Additionally, **RAG (Retrieval-Augmented Generation)** is used to optimize LLM explanations by feeding in more contextually relevant information during the analysis phase. 
 ---
 
 ## Project Structure
